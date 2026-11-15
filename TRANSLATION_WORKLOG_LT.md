@@ -9,6 +9,7 @@ This file is the durable handoff for continuing Lithuanian PhotoCraft localizati
 - After writing, fetch the file again and verify the exact rows.
 - Never report a change as saved unless the GitHub write succeeded and the row was verified.
 - Do not invent source keys. If a discussed term is absent, locate the exact source key in the application or another source catalog first.
+- The assistant owns routine catalog audits, consistency checks, and monitoring; the user provides editorial judgment and flags UX/terminology improvements.
 
 ## Agreed terminology
 | Source | Lithuanian | Notes |
@@ -39,6 +40,9 @@ This file is the durable handoff for continuing Lithuanian PhotoCraft localizati
 | Cooling Filter (82) | Šaltų tonų filtras (82) | Applied to catalog |
 | Export Preferences… | Eksportuoti parenkant nuostatas... | Applied to catalog |
 | Filter | Filtrai | Applied to catalog |
+
+## UX/source-label proposals
+- **Filter → Filters**: user proposes that the English UI label should be plural because the menu/category contains multiple filters. The Lithuanian translation „Filtrai“ is already plural and remains correct. This is a proposed upstream UI wording improvement, not a change to the translation key; investigate the exact UI context and, if confirmed, suggest a source-code change to the maintainers.
 
 ## Current catalog details
 - PhotoCraft translation catalog PR: https://github.com/storytold/craft-i18n/pull/295
