@@ -14,7 +14,7 @@ This file is the durable handoff for continuing Lithuanian PhotoCraft localizati
 ## Agreed terminology
 | Source | Lithuanian | Notes |
 |---|---|---|
-| Basic | Pagrindinis | UI section/category |
+| Basic | Esminiai | UI section/category; user-approved on 2026-11-16 |
 | Basic Adjustments | Pagrindiniai koregavimai | Use when this exact source key exists |
 | Light | Šviesa | Photo adjustment section, not font weight |
 | fontWeight / Light | Plonas | Font weight only |
@@ -49,7 +49,7 @@ This file is the durable handoff for continuing Lithuanian PhotoCraft localizati
 - Fork: rytumb-cmyk/craft-i18n-lt
 - Catalog path: locales/lt/photocraft.tsv
 - PR branch: add-lithuanian-photocraft-catalog
-- The catalog contains Basic = Pagrindinis; Light = Šviesa; fontWeight Light = Plonas; cameraRaw Light = Šviesa.
+- The catalog contains Basic = Esminiai; Light = Šviesa; fontWeight Light = Plonas; cameraRaw Light = Šviesa.
 - The screenshot-confirmed warming/cooling filter preset rows have been added to the catalog.
 
 ## Outstanding checks
