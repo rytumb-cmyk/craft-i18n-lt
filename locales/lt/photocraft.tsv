@@ -1309,7 +1309,7 @@
 	No presets of this type.	Nėra šio tipo išankstinių nuostatų.
 	No properties	Ypatybių nėra
 	No tool presets.	Nėra įrankio išankstinių nuostatų.
-	Noise Reduction	Triukšmo mažinimas
+	Noise Reduction	Triukšmo slopinimas
 	Normal	Įprastas
 	Not in Dictionary:	Žodyne nėra:
 	OK	Gerai
@@ -2328,8 +2328,8 @@
 	Details	Išsami informacija
 	Rendering mode	Atvaizdavimo režimas
 	Freeze Lasso: drag to freeze an area, Alt-drag to thaw it (L)	Šaldymo lasas: vilkite, kad užšaldytumėte sritį; vilkite laikydami Alt, kad ją atšildytumėte (L)
-	Shadow Clipping Warning (U)	Šešėlių nukirpimo įspėjimas (U)
-	Highlight Clipping Warning (O)	Šviesių sričių nukirpimo įspėjimas (O)
+	Shadow Clipping Warning (U)	Tamsių sričių praradimo įspėjimas (U)
+	Highlight Clipping Warning (O)	Šviesių sričių praradimo įspėjimas (O)
 	Show Lab Color Readouts	Rodyti Lab spalvų rodmenis
 	Show Vectorscope	Rodyti vektorskopą
 	Show Red at 3 o'clock	Rodyti raudoną spalvą ties 3 valanda
@@ -2844,7 +2844,7 @@ curves	Smooth	Glotnus
 	Fill Light	Užpildanti šviesa
 	Convert to Grayscale	Konvertuoti į pilkumo tonus
 	Sharpness	Aštrumas
-	Color Noise Reduction	Spalvinio triukšmo mažinimas
+	Color Noise Reduction	Spalvinio triukšmo slopinimas
 	Luminance Smoothness	Šviesio glotnumas
 	Lens	Objektyvas
 	ISO	ISO
