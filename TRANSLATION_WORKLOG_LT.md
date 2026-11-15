@@ -40,6 +40,8 @@ This file is the durable handoff for continuing Lithuanian PhotoCraft localizati
 | Cooling Filter (82) | Šaltų tonų filtras (82) | Applied to catalog |
 | Export Preferences… | Eksportuoti parenkant nuostatas... | Applied to catalog |
 | Filter | Filtrai | Applied to catalog |
+| Geometric | Geometrinės | Approved on 2026-11-16 from UI screenshot; exact source key not found in current PhotoCraft TSV, locate before adding |
+| Textures | Tekstūros | Approved on 2026-11-16 from UI screenshot; exact source key not found in current PhotoCraft TSV, locate before adding |
 
 ## UX/source-label proposals
 - **Filter → Filters**: user proposes that the English UI label should be plural because the menu/category contains multiple filters. The Lithuanian translation „Filtrai“ is already plural and remains correct. This is a proposed upstream UI wording improvement, not a change to the translation key; investigate the exact UI context and, if confirmed, suggest a source-code change to the maintainers.
