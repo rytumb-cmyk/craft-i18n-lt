@@ -14,7 +14,7 @@ This file is the durable handoff for continuing Lithuanian PhotoCraft localizati
 ## Agreed terminology
 | Source | Lithuanian | Notes |
 |---|---|---|
-| Basic | Esminiai | UI section/category; user-approved on 2026-11-16 |
+| Basic | Esminiai | UI section/category; user-approved on 2026-11-16. Aligns with the user's preferred Lithuanian rendering of Photoshop's “Essentials” workspace/category. |
 | Basic Adjustments | Pagrindiniai koregavimai | Use when this exact source key exists |
 | Light | Šviesa | Photo adjustment section, not font weight |
 | fontWeight / Light | Plonas | Font weight only |
