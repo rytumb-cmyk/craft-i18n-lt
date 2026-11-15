@@ -29,6 +29,7 @@ This file is the durable handoff for continuing Lithuanian PhotoCraft localizati
 | Toning | Tonavimas | Approved wording |
 | RAW Develop | RAW dorojimas | Approved wording |
 | RAW Develop Filter | RAW dorojimo priemonės | Approved wording; do not translate as „filtras“ |
+| Pixel Art Preview | Pikselinio meno peržiūra | Approved on 2026-11-15; exact catalog source key still needs locating |
 | Print Size | Spaudinio dydis | Applied to catalog |
 | Warming Filter (85) | Šiltų tonų filtras (85) | Applied to catalog |
 | Warming Filter (LBA) | Šiltų tonų filtras (LBA) | Applied to catalog |
@@ -48,6 +49,7 @@ This file is the durable handoff for continuing Lithuanian PhotoCraft localizati
 - The screenshot-confirmed warming/cooling filter preset rows have been added to the catalog.
 
 ## Outstanding checks
+- Locate the exact source key for Pixel Art Preview in the application/source catalog and add „Pikselinio meno peržiūra“ to the actual translation TSV; do not invent a key.
 - Locate exact source keys for RAW Develop / RAW Develop Filter in the application source or source catalogs; these keys were not found in the current PhotoCraft TSV at the last check.
 - Audit remaining mismatches and untranslated UI labels against the approved terminology above.
 - Check consistency of Red Eye entries: current catalog has Red Eye Tool / Red Eye as „Raudonų akių šalinimas“, while the approved general term is „Raudonų akių koregavimas“; decide/apply consistently after checking context.
