@@ -1542,7 +1542,7 @@
 	Thumbnail size (smallest: list)	Miniatiūros dydis (mažiausias – sąrašas)
 	Tilt X	Pakreipimas X ašimi
 	Tilt Y	Pakreipimas Y ašimi
-	Tint	Atspalvio poslinkis
+	Tint	Atspalvis
 	Toggle count group visibility	Perjungti matavimo grupės matomumą
 	Toggle text orientation	Perjungti teksto orientaciją
 	Tolerance	Paklaida
@@ -2248,7 +2248,7 @@
 	Model	Modelis
 	F	F
 	Artist	Autorius
-	Spot Color	Papildoma spalva
+	Spot Color	Baltos spalvos balanso pipetė
 	Roman	Romaninis
 	Bold Italic	Pusjuodis kursyvas
 	Justification	Lygiavimas
