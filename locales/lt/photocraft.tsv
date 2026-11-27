@@ -4593,3 +4593,7 @@ shape	Appearance	Išvaizda
 	Rotate Canvas	Pasukti drobę
 	Clockwise	Pagal laikrodžio rodyklę
 	Counter clockwise	Prieš laikrodžio rodyklę
+	Source 1 Channel	1-ojo šaltinio kanalas
+	Invert Source 1	Invertuoti 1-ąjį šaltinį
+	Source 2 Channel	2-ojo šaltinio kanalas
+	Invert Source 2	Invertuoti 2-ąjį šaltinį
