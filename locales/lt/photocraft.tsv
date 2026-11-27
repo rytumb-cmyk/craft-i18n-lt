@@ -4597,3 +4597,20 @@ shape	Appearance	Išvaizda
 	Invert Source 1	Invertuoti 1-ąjį šaltinį
 	Source 2 Channel	2-ojo šaltinio kanalas
 	Invert Source 2	Invertuoti 2-ąjį šaltinį
+	Merge Channels	Sujungti kanalus
+	Channel Options	Kanalo parinktys
+	Quick Mask Options	Greitosios kaukės parinktys
+	Layer Mask Display Options	Sluoksnio kaukės rodymo parinktys
+	New Spot Channel	Naujas papildomos spalvos kanalas
+	Image Statistics	Vaizdų statistika
+	Add the files to load	Pridėkite įkeliamus failus
+	Destination Folder	Paskirties aplankas
+	File Type	Failo tipas
+	Lens Correction Profile	Objektyvo korekcijos profilis
+	Correction Options	Korekcijos parinktys
+	Geometric Distortion	Geometrinis iškraipymas
+	Chromatic Aberration	Chromatinė aberacija
+	Vignette	Vinjetavimas
+	Auto Scale Image	Automatiškai keisti vaizdo mastelį
+	Source Mode	Šaltinio režimas
+	Target Mode	Tikslinis režimas
