@@ -4617,3 +4617,7 @@ shape	Appearance	Išvaizda
 	this platform doesn't report display profiles	ši platforma nepateikia ekranų spalvų profilių
 	the display profile hasn't been read yet	ekrano spalvų profilis dar nenuskaitytas
 	the display profile reader stopped without an answer	ekrano spalvų profilio nuskaitymo procesas baigėsi nepateikęs atsakymo
+	Hard Edge	Ryškūs kraštai
+	Scroll All Windows	Slinkti visuose languose
+	Erase to History	Atkurti iš istorijos
+	Click to sample the foreground color · Option-click for background	Spustelėkite, kad paimtumėte priekinio plano spalvą · spustelėkite laikydami „Option“, kad paimtumėte fono spalvą.
